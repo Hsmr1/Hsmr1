@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hsmr1
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning how to develop an application for French Health Center "Santé publique"
+- 🌱 I’m currently learning how to develop an application for "Santé publique France"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
